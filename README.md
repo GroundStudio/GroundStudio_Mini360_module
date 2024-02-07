@@ -1,5 +1,6 @@
-GroundStudio
+GroundStudio Mini360 module
 ====================================
+![mini360 rev0 2](https://github.com/GroundStudio/GroundStudio_Mini360_module/assets/77836107/7df4efe0-a93c-434d-aa36-7c3f83d5a046)
 
 Get it from [ardushop.ro](https://ardushop.ro/ro/)
 
@@ -7,21 +8,21 @@ Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.
 
 Description
 -------------------
-Short description of the board.
+Step down module based on AX3484 chip.
 
 Contents
 -------------------
 
-* [/Documentation](https://github.com/GroundStudio) -- Contains documentation written during creation of this repository, with readme.md index of its own!
-* [/Firmware](https://github.com/GroundStudio) -- Firmware (bootloaders, etc)
-* [/Hardware](https://github.com/GroundStudio) -- Schematics, layout.
-* [/Libraries](https://github.com/GroundStudio) -- Arduino/CircuitPython libraries. 
-* [/Tools](https://github.com/GroundStudio) -- Tools needed for compiling, uploading bootloader, etc.
+* [/Documentation](https://github.com/GroundStudio/GroundStudio_Mini360_module/tree/main/Documentation) -- Contains documentation written during creation of this repository, with readme.md index of its own!
+* [/Firmware](https://github.com/GroundStudio/GroundStudio_Mini360_module/tree/main/Firmware) -- Firmware (bootloaders, etc)
+* [/Hardware](https://github.com/GroundStudio/GroundStudio_Mini360_module/tree/main/Hardware) -- Schematics, layout.
+* [/Libraries](https://github.com/GroundStudio/GroundStudio_Mini360_module/tree/main/Libraries) -- Arduino/CircuitPython libraries. 
+* [/Tools](https://github.com/GroundStudio/GroundStudio_Mini360_module/tree/main) -- Tools needed for compiling, uploading bootloader, etc.
 
 Versions
 -------------------
 *(Not all tags shown)*
-* [V0.0.1] Initial version
+* [V0.2] Initial version
 
 License
 -------------------
