@@ -31,3 +31,11 @@ This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4
 **You are welcome to use this for commercial purposes.**
 
 Please consider contributing back to this project or others to help the open-source hardware community continue to thrive and grow! 
+
+Certifications:
+
+[Open Source Hardware Association](https://certification.oshwa.org/ro000012.html)   
+   
+[![certification-mark-RO000012-wide](https://github.com/GroundStudio/GroundStudio_Mini360_module/assets/77836107/5366de05-71f4-4135-affc-74ea39f11653)
+](https://certification.oshwa.org/ro000012.html)
+
